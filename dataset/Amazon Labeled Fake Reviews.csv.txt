@@ -1,0 +1,250 @@
+rating,title,text,helpful_vote,verified_purchase,label,review_length,exclamation_count,positive_words,negative_words,question_mark_count,contains_image,user_review_burst,is_burst_review
+5,You will love it!,"It's battery powered! Love love it! Works perfectly I don't care what the negative comments are- nothing negative about it. Great for the purse or cosmetic bag. Travels great!",0,TRUE,0,152,4,7,1,0,0,99999,0
+5,"Good, clean soap","Good stuff! Yes - it's weird to cover yourself with grey foam that smells like a campfire - but when you rinse it off, you're actually clean. No fragrance, no slime. Nice soap!",3,TRUE,0,171,1,5,0,0,0,99999,0
+5,Love It !!!,"I've had this for a little over a month now and I have NOTHING bad to say. Gives a close shave and is VERY QUIET !!!",0,FALSE,1,95,3,4,1,0,0,99999,0
+2,Two Stars,"Lashes ere too short didn't fit my eye",0,TRUE,0,40,0,0,2,0,0,99999,0
+1,I can't used,"The magnet doesn't work is impossible to used. I not sure if i can return it",0,TRUE,0,70,0,0,3,0,0,99999,0
+5,Love lume,"Seriously the ONLY natural deodorant I can use. I've tried about 15 other natural deodorants and NONE of them worked like Lume. If it's the weekend and I dont shower I won't even begin to start smelling, lume seriously works! I love this stuff!!!!",0,TRUE,1,211,6,7,2,0,0,99999,0
+3,"Horrible smell, smelling like lemons is not a manly ...","Horrible smell, smelling like lemons is not a manly in a shape or form. But besides the bad smell, it does pretty good.",0,TRUE,0,114,0,0,3,0,0,99999,0
+5,Wonderful,Best purchase ever!!!,0,FALSE,1,22,3,2,0,0,0,99999,0
+5,I love the jewelry even though its too small for my ...,"I love the jewelry even though its too small for my big forehead. It adds a glamurous look to anything !!",0,TRUE,0,94,2,2,1,0,0,99999,0
+5,can't live without it!,"I do my own artificial nail tips. I've found this to be the best glue. I can't live without this stuff. And the price is fabulous!!",0,TRUE,0,123,2,4,0,0,0,99999,0
+5,Love these!,These were excellent for me.,0,TRUE,1,25,0,2,0,0,0,99999,0
+5,Great bags,"Perfect. For my Cornhole bags! Bigger ones hold 2 sets smaller ones 1 set, clear one for<br />Personal items",1,TRUE,0,102,0,1,0,0,0,99999,0
+5,Yes. I will order this product again!,Yes. I will order this product again!,0,TRUE,1,40,0,1,0,0,0,99999,0
+2,Raw Kokum Butter,"it was very hard & did not mix well with my olive oil, peppermint oil, coconut oil & shea butter mixture.... will not be purchasing again",0,TRUE,0,124,0,0,4,0,0,99999,0
+5,Love this makeup,love it. Great coverage,1,TRUE,1,32,0,2,0,0,0,99999,0
+1,Defective,"The item was very poorly wrapped and defective - top part does not lock into the bottle below. The bottle can easily come off the top spray part when you use it. Water also drifts out as you spray. It does have continuous spray, meaning you can press once and the spray will come out for a few seconds without stopping.",0,TRUE,0,255,0,0,2,0,0,99999,0
+5,Why else would you buy two?,Best cleanser for sensitive oily skin! So I bought 2.,0,TRUE,0,49,1,2,0,0,0,99999,0
+3,Not so great product.,"I was expecting a better quality product. The tool with the loop fell apart after the second strand. I had to hot glue it back together to be able to use.The second tool isn't working well the latch is loose so it tends to pull the silicone out the hair staple.The pliers are great and sturdy.",0,TRUE,0,242,0,1,3,0,0,99999,0
+5,"Great product, fast service","I ordered this hair on Saturday And received it on Monday, I received email from a very pleasant customer service representative Eric,<br />The hair is soft and the texture feels great, I love the waves and how thick the bundle is, cant wait to install it, more review to follow.",9,TRUE,0,259,0,4,0,0,0,99999,0
+5,"Clean, convenient, and comfortable!","These are so convenience to carry with you in a purse or handbag, but what I love most about them is that they really do relieve itching.",0,TRUE,0,128,0,2,0,0,0,99999,0
+5,GOOD,SMELL NICE BUT NOT LIKE LAVENDER,1,TRUE,1,35,0,2,1,0,0,99999,0
+1,One Star,No se ajustan a unas cejas normales.,0,TRUE,1,38,0,0,1,0,0,99999,0
+5,Smooth heels,"This is one of the best products I have used for my feet to remove the callouses. It smooths the skin and doesn't rub too hard or scrape my skin. It doesn't leave any cuts or raw patches. This is easy to clean and use. I even got my husband to start using it and he loves it. Cleans up quickly and easily. I would recommend this to anyone who wants to have smooth heels and feet, and also to those who have tender skin because it doesn't hurt.",0,TRUE,0,400,0,5,0,0,0,99999,0
+4,Exfoliate first,"Soft, wears off over the day. Make sure you exfoliate lips before you wear",0,TRUE,0,72,0,1,0,0,0,99999,0
+5,"Not too thick, not too thin. Just right ...","Not too thick, not too thin. Just right . Perfection on a budget",0,TRUE,0,78,0,3,0,0,1,99999,0
+5,Great Purchase!!,"I love love love this hair! So soft, bouncy, full. Worth the purchase.. will be getting more! This is my 4th purchase!",0,TRUE,0,110,3,4,0,0,0,99999,0
+5,It goes a long way!,My daughter loves this latex. She's used it several times and the bottle is still almost full!,1,TRUE,0,85,0,2,0,0,0,99999,0
+1,To small,These are way to small for normal nail beds and I have small hands. They might fit a kid.,1,TRUE,0,84,0,0,1,0,0,99999,0
+2,cheaply made,These are so flexible and not good quality.,0,TRUE,0,45,0,0,1,0,0,99999,0
+5,Great Quality,"Item works perfect and has plenty of pockets for everything that she will need when she travels. Fits into a small carry on suitcase as well.",0,FALSE,1,128,0,3,0,0,0,99999,0
+5,quality,great,0,TRUE,1,10,0,1,0,0,0,99999,0
+5,Ponytail Must have,"It's duable for a protective style. Does tangle and you must do maintenance on it every day. Will purchase another one as a go through my process of getting my natural hair to grow.",1,TRUE,0,173,0,1,0,0,1,99999,0
+4,Love my new shears,"Love my new shears, really smooth cut. Light weight, and comfortable fit. Only thing is it needs a spacer for the finger holes, they are too large.",0,FALSE,1,133,0,3,1,0,0,99999,0
+5,BEST make-up cover up I have ever used,"BEST make-up cover up I have ever used! I have a lot of acne scarring on my chin and this has helped blend and cover those scars up.",0,TRUE,0,125,1,2,0,0,0,99999,0
+4,Good stuff,Good stuff,1,TRUE,0,18,0,1,0,0,0,99999,0
+5,Stocking stuffers,"I used these as stocking stuffers for Christmas and got so many compliments. I feel like everyone needed a new set when they couldn't find anything or needed something for when we travel. It's not a problem any more and it gives you more tools to use, some i don't even know what for.",0,FALSE,1,250,0,2,0,0,0,99999,0
+5,Great,Wonderful!,0,FALSE,1,12,1,1,0,0,0,99999,0
+1,Didn't smell like Baccarat rouge 540,Fragrance.,1,TRUE,1,25,0,0,1,0,0,99999,0
+5,Highly recommend,Incredible quality!!!,0,FALSE,1,22,1,2,0,0,0,99999,0
+5,Five Stars,"Bought this product for my wedding and it was amazing. I felt like and looked like a queen.",0,TRUE,0,91,0,2,0,0,0,99999,0
+5,Lasts forever,"It actually grows off it doesn't come off at all. I have to buff and then soak, then scrape it off. An amazing product if you don't change your color too often.",0,TRUE,0,130,0,1,0,0,0,99999,0
+5,Works,Perfect for washrooms without soap. Great for the road.,0,TRUE,0,55,0,2,0,0,0,99999,0
+5,... only used this product once but so far so good!,I have only used this product once but so far so good! =D,0,TRUE,0,65,1,2,0,0,0,99999,0
+5,Love this!,Makes lashing so much easier!!,0,TRUE,1,33,1,2,0,0,0,99999,0
+5,no offensive perfumy smell,"This is wonderful shampoo. I'm so glad I tried it. I'm going to stick with it. I hate perfumes in my shampoo and this has only the slightest citrus smell. VERY minor smell. I have very fine, short hair so I was looking for something that wasn't a big heavy glop of gunk. The shampoo got my hair really clean and the conditioner left my hair really soft. And it's really inexpensive as well. I recommend it highly.",2,TRUE,0,394,0,5,0,0,0,99999,0
+5,Best hair tool!,So easy to use. Was about to dry and fluff my hair in minutes,0,TRUE,0,59,0,1,0,0,0,99999,0
+1,The lavendar smell one is way better. I won't purchase this one again,"Eh smell... and doesn't last. The lavendar smell one is way better. I won't purchase this one again",1,TRUE,0,92,0,1,2,0,0,99999,0
+3,Okay,"These lashes are okay I cut them into individual pieces to apply, the style isn't for me and will not be purchasing again",0,TRUE,0,104,0,0,1,0,0,16924999.5,1
+5,"Small, compact, great for hand sanitizers",Used for hand sanitizers and worked great!,0,TRUE,1,52,0,2,0,0,0,99999,0
+1,not impressed,"does not apply and look as it states, I have lot's of lashes, so I expected the product to play up what I have, but it did not. Not even close",1,TRUE,0,120,0,0,2,0,0,99999,0
+5,Love it!!!,Its expensive but worth it. You don't have to use much so it can last a long time,0,TRUE,0,73,1,1,0,0,0,99999,0
+1,Arrived half empty and leaked all over the box it was sent in and spray bottle defective,"Which is a lot to take in for an item I cannot return. $15 for half a spray bottle that doesn't work is a disgrace. Smells fine, I re-ordered (this time the larger size) because I liked the scent. Feel ripped off with such poor care taken in sending this product.",0,TRUE,0,252,0,1,1,0,0,99999,0
+5,Five Stars,"I liked the brush, it does the job.",0,TRUE,0,40,0,1,0,0,0,99999,0
+2,Weird,"I purchased the Lume Bay Rum scent. I opened and used it on freshly clean armpits and I now smell like rotting Christmas tree (really the only way I can describe it).<br /><br />Time will tell how long my armpits will stay smelling this way (longevity) and whether it will cause any irritation etc.<br /><br />I cannot recommend (at least) this scent. I wonder if other scents are better?",0,TRUE,0,319,0,0,3,0,0,99999,0
+5,Great product,Great size,0,TRUE,1,17,0,1,0,0,0,99999,0
+1,Good,Photo doesn't show how bright it is.,0,FALSE,1,33,0,1,0,0,0,99999,0
+5,Good product in good condition,Came in good condition and on time.,0,TRUE,1,44,0,1,0,0,0,99999,0
+5,Wonderful,Would buy again!,0,FALSE,1,17,0,1,0,0,0,99999,0
+3,The container is tiny,"This mustache wax did the job of holding my mustache and beard in place. The problem is, I had a lot of beard and mustache but the amount of wax was small for the money. The container was almost the size of a lip stick container.<br />I have since cut off all my facial hair as it was just getting too much to deal with. I have to color it and that is a messy objective in and of itself. I was getting more color on my face then on my beard. The wax couldn't fix this but, oh well...",0,TRUE,0,395,0,1,2,0,0,99999,0
+5,Arrived on time,Love the hair,1,TRUE,1,22,0,1,0,0,0,99999,0
+3,Three Stars,Very cute Koala and Flower bows.,1,TRUE,1,29,0,1,0,0,0,99999,0
+5,Love it,"My daughter uses this for her curly hair, this product makes it so easy to comb through. She loves this product.",0,TRUE,1,95,0,2,0,0,0,99999,0
+5,Best Shampoo for Thin Hair,Best shampoo and conditioner ever!,0,TRUE,1,32,0,2,0,0,0,99999,0
+1,Hard pass,"Yes, decided to get a ""cheap"" wig. . . You get what you pay for, but the use of large plastic piece as part of the wig cap on front of the hairline makes wearing this extremely uncomfortable.",2,TRUE,0,152,0,0,1,0,1,99999,0
+5,Makes my hair shiny and healthy,"Used it on my Granddaughters just washed hair. No tangles and no tears.",0,TRUE,0,77,0,2,0,0,1,99999,0
+5,Best Lashes Ever!!,Love them wish they still sold them in the stores,0,TRUE,0,49,0,1,0,0,0,99999,0
+1,One Star,"junk, cheaply made",0,TRUE,1,17,0,0,2,0,0,99999,0
+5,Pretty mink lashes,"I loved these no lie there so perfect for the price and you also get a cute little gift with them 😊",0,TRUE,0,90,0,2,0,0,0,99999,0
+5,Works well,"This brand is thick and works well to protect from the sun. I found it first at Mayo Clinic and I trust them. I have bought about 6 bottles so far this summer.",0,TRUE,0,150,0,2,0,0,0,99999,0
+1,Highly recommend,Best ever!,0,FALSE,1,13,0,1,0,0,0,99999,0
+5,Five Stars,Fun,0,TRUE,1,7,0,1,0,0,0,99999,0
+5,Great for the price!,These are great razors and last a long time.,0,TRUE,0,53,0,2,0,0,0,99999,0
+1,Great,Best purchase ever!!!,0,FALSE,1,22,1,1,0,0,0,99999,0
+5,ManiPedi Set on the go!,"Happy that I made this purchase! The kid has everything you need in it. I love how the case comes in different designs. If you like me, and find yourself needing a file while out or Clippers, this is a perfect day to fit in your purse.",0,TRUE,0,220,2,2,0,0,0,99999,0
+2,Shampoo poorly closed,"To be honest, I have bought this shampoo many times and this is the first time it happens. The bottle wasn't completely closed so some shampoo had dripped. You could even see shampoo on the paper where it comes wrapped of. The thing is that I bought two, and both came in the same conditions even though they were individually wrapped. It wasn't a lot that it dripped but still if I'm paying $28 I want a perfect product.",0,TRUE,1,349,0,0,1,0,0,99999,0
+5,Highly recommend,Attached screenshot is inaccurate.,0,FALSE,1,31,0,1,0,0,0,99999,0
+5,Good buy,Fits under a mask perfectly,0,TRUE,1,30,0,1,0,0,0,99999,0
+5,so it smells pleasant but not like carrots as you might think,"A lovely authentic oil. This is the real deal, so it smells pleasant but not like carrots as you might think.",3,TRUE,0,107,0,2,0,0,0,99999,0
+5,EVERYTHING you could need,"There isn't a tool you could possibly need after buying this. It's loaded with everything you could want. This goes in our suitcase when we travel.",0,FALSE,1,119,0,1,0,0,0,99999,0
+5,Five Stars,prefer the shorter wider felt tip on the brush,0,TRUE,0,38,0,1,0,0,0,99999,0
+5,Good product,Good product,0,TRUE,1,16,0,1,0,0,0,99999,0
+5,Five Stars,its a good product,0,TRUE,1,17,0,1,0,0,0,99999,0
+1,Did not work for me,Return the first day,0,TRUE,1,21,0,0,0,0,0,99999,0
+4,I love these masks,"I have bought a number of these masks. They are breathable and fit well with the adjustable straps. I don't want to try any others because I fear they won't be as good as these are. Highly recommended. I gave it 4 stars because I want the option to buy three masks of the same color. I don't care for the color of all the masks in the three pack, so I won't use some of them and they go to waste.",0,FALSE,1,317,0,3,0,0,0,99999,0
+3,Good but not great,"Great color match with good coverage. The applicator gets messy quickly and the product when pressing down comes onto the back of the sponge applicator. Also very hard to tell how much product is left you can't see it like you would in other products.",0,TRUE,1,201,0,2,1,0,0,99999,0
+3,"Good for mild redness, not severe","I tested this is two areas. I had a small pimple on my forehead but it was causing redness around it. This powder/cream hid it pretty well and evened out my skintone better. However, the other area I tried was my chest. I have permanent redness at the top of my chest from getting sunburned too many times. For that area, it did nothing at all. It's not super red, it's just a larger area. That was really the reason I wanted to try this product; for my chest. I suppose I can use it for the occasional small blemishes as long as they are mild.",0,FALSE,1,416,0,1,0,0,0,99999,0
+5,As descrubed,"You get a lot of them, all black. They are what I needed",0,TRUE,0,58,0,1,0,0,0,99999,0
+1,Nice,Best ever!,0,FALSE,1,10,0,1,0,0,0,99999,0
+5,Best brand for day and night,"I have to wear a wig and I gets tuns of complaints , I also sleep in mine !noricobis the best brand!!!",2,FALSE,1,99,1,2,0,0,0,99999,0
+1,"Hard to wash off, smells bad","I'm a pale redhead with lots of sunscreen experience. I bought a small bottle of Garden Goddess Sport and applied it to my arms Sautrsay morning. I've taken three showers since then and have really scrubbed my arms. But it is still there! I can still smell its unpleasant scent and I can see the whiteness of it. I can't really speak to have effective it was since I didn't end up being outside for very long. But I do know that I will never use this sunscreen again.",1,FALSE,1,336,0,0,1,0,0,99999,0
+5,fun,"Fun Stuff, real pretty for costume jewerly",0,TRUE,1,33,0,1,0,0,0,99999,0
+1,Best ever,Exactly as described.,0,FALSE,1,22,0,1,0,0,0,99999,0
+5,Perfect!,"My 4 year old daughter hates having her hair brushed because of her fine hair tangling like cotton candy. After many fights, crying spells, and &#34;Just forget it, your mom can do it when you go home!&#34; moments, I broke down and ordered the Mercier. The day it got here, she begged me to brush her hair. Plus, it's pink, her favorite color! Brushed from the tips, slowly working up 1&#34; at a time. No tears, no running, and only one &#34;ouch&#34; from daddy being rough. I cannot say enough good things about this magnificent brush!!!!!!",4,TRUE,1,433,5,6,0,0,0,99999,0
+5,Love it,Love the way they bring a little more style to my locs,0,TRUE,1,53,0,2,0,0,0,99999,0
+5,Easy beauty tool,This is my new fav product.,0,TRUE,1,28,0,1,0,0,0,99999,0
+1,"This is not a lip stain as stated, it ...","This is not a lip stain as stated, it does not dry or set, it wipes off and does not stay on.",0,TRUE,0,91,0,0,1,0,0,99999,0
+5,Super Cute & Barely Slip,"I normally can't wear all around the head handbands because my head is way too big. But these barely slip and the bow has wires in it to make positioning easier. Not to mention the variety of colors - I originally bought these for my sister but noticed how cute they were and bought some for myself and they did not disappoint!",1,TRUE,0,285,0,3,0,0,0,99999,0
+3,I like em,"They're definitely not double weft. And that's fine. They are human hair cause I got to color them. I bought the blonde ones. But I accidentally colored then pink whoops. But they're good. My natural hair is about shoulder length rn I added a pic of that.. my hair is naturally very thin so if you have thick blunt hair it wont blend and that's the bottom line. Either thin your hair, buy more packs or suck it up.",0,TRUE,0,347,0,1,1,0,1,99999,0
+1,TERRIBLE PRODUCT,"I bought this for my wife. She used it 2 or 3 times and the motor burned up. Of course it is too late to return it by a few weeks so I'm out the money. Stay as far away from this product as you can. It made me select one star to submit this or it would be zero.",2,TRUE,0,215,0,0,1,0,0,99999,0
+5,It's not hard to used not unlike the donut!,Omg! This is the best for my hair I really2 loved it!,1,TRUE,0,67,1,2,0,0,0,99999,0
+3,Did not like it at all,It does not have a good water pressure.,0,TRUE,0,43,0,0,1,0,0,99999,0
+4,You actually get what's in the picture!,"I love them. The locs came a day early. The packaging was very cute and compact. No surprises, what you see in the picture, is actually what you get! I for sure thought 1 pack wouldn't be enough so I bought 2 and only used one and had some left over. They look really natural, the color is sooo vibrant, and they feel amazing, so soft. I can't wait to try and curl them.",10,TRUE,0,317,1,4,0,0,1,99999,0
+5,Wonderful Vitamin E cream!,Best cream I have ever used. It disappears quickly when you apply and leaves your skin very soft and smooth. It has a faint and desirable odor which disappears as applied.,1,TRUE,0,138,0,3,0,0,0,99999,0
+5,The best ever!,"This is the best mascara I have ever used! Goes on great and stays on! No smudging. Comes off with water. The price is amazing. My favorite mascara ever! Awesome product!",0,TRUE,1,147,2,4,0,0,0,99999,0
+5,Worth to buy,Great stuff,0,TRUE,1,15,0,1,0,0,0,99999,0
+1,I'm pissed,"When I seen the picture it was the color of my hair when it came it's a different color I'm pissed Mother's Day Sunday now I have to run out n buy some more hair a waist of time",1,TRUE,0,131,0,0,1,0,1,99999,0
+2,Not as i expected,"I didn't know i can get it from 99 cent store for just 5 dollars. It didn't do a good job as i expected. The dead skin is not going away, and it will be the same tomorrow after i use it today.",0,TRUE,0,167,0,0,1,0,0,99999,0
+5,Excellent for cracked skin on feet!,"I really, really love this stuff! I've always had bad feet, but had never lived in such a dry climate as Nevada. My fingernails all cracked and tore within a couple of weeks of moving here late last summer, and my feet weren't much better. Enter winter. My hands improved with regular trips for a manicure and frequent application of hand lotion, but only this Gold Bond Pedi Smooth cream has helped my feet. I lather it on every night before bed and apply an ""intensive"" form of a Nivea lotion before putting on socks in the morning. My feet are great now, and my manicurist agrees. The Gold Bond was OK on my hands, but it left a weird kind of stickiness on them and I stopped using it for hands. For feet, though, you can't beat it.",1,TRUE,0,608,0,4,0,0,0,99999,0
+5,Absolute fav for brows,"As I makeup artist I have tried so many eyebrows pencils and I was very impressed when I used this for the first time .The quality is fantastic, , and the price is reasonable for what you get. . Creates such natural and wispy looking brows with such minimal effort and It stays put all day! I",0,TRUE,0,208,0,3,0,0,0,99999,0
+5,Five Stars,Amazing hair! Will definitely be reordering!,2,TRUE,1,44,0,1,0,0,0,99999,0
+5,Great buy,Got this for my mom and she loves it,0,TRUE,0,35,0,1,0,0,0,99999,0
+5,Very good,"I love this so much it is color changing I gave one to my sisters and we all are in love with it. It is perfect if you don't want to wear lipstick but still want a little lip pop of color. It also smells really really good",0,TRUE,0,185,0,3,0,0,0,99999,0
+5,Love them!,Great quality and so pretty! Would definitely recommend.,0,TRUE,0,48,0,2,0,0,0,99999,0
+5,Go on so easy and beautiful!,"Was so easy to use and the images transfer perfectly and shinny! A little expensive, but worth it.",0,TRUE,1,88,0,2,0,0,0,99999,0
+1,Nice,Photo doesn't show how bright it is.,0,FALSE,1,33,0,1,0,0,0,99999,0
+5,Amazing,Pretty good.,0,FALSE,1,14,0,1,0,0,0,99999,0
+5,Five Stars,You can never go wrong with clinique. I bought this package to travel with.,0,TRUE,0,74,0,1,0,0,0,99999,0
+5,My feet feel pampered,"This is so easy to use. Like many, my feet have been neglected during the pandemic. I'm glad to have found this! My feet feel and look better.",0,FALSE,1,125,0,2,0,0,0,99999,0
+4,Good value,"Worked great, looked beautiful",1,TRUE,0,33,0,1,0,0,0,99999,0
+1,smallest lipgloss ever,"i orderd this thinking it would be a dupe for the door lip oil. hell nah this is so small don't get it",0,TRUE,0,96,0,0,0,0,1,99999,0
+5,Great hair for the price. I'll be purchasing on the regular!!!!,Better than store bought,0,TRUE,1,53,1,2,0,0,0,99999,0
+3,But still disappointed,"It work well ok, but the brush arrived with the brustles bent. For what I paid I'm not that upset. But still disappointed",0,TRUE,0,120,0,0,1,0,0,99999,0
+5,I highly recommend it!!!,"This straightener warms up quickly, the warmth is just enough to help my hair do what I want, either straight or curl. It's easy to use, the display is easy to read and manipulate. I love the look of the tool itself.",0,TRUE,0,173,0,3,0,0,0,99999,0
+5,WELL MADE,I really liked these crown headbands for my granddaughters. They look like the real thing.,0,TRUE,0,78,0,2,0,0,0,99999,0
+4,Rough,Very tough to start.,0,TRUE,1,22,0,0,0,0,0,99999,0
+4,Little glass bottles are what I needed.,"I bought these little bottles to fill up my little concotions that I make. It's cheaper than to buy it from the store. The units are about the right size. Maybe a 2.5oz would be good. I forget what the dang TSA limits are. I would give it 5 stars if it came with labels too.",1,TRUE,0,239,0,1,0,0,1,99999,0
+1,One Star,"Terrible quality. The glue was dried up. Huge disappointment!! Will not buy again!",1,TRUE,0,70,2,0,0,0,0,99999,0
+5,Great for beard grooming,"These are the best beard combs I've had. Way better than the heavy, bulky, and expensive wooden ones. The comb works great, is comfortable in my pocket, and if I lose it...no big deal, grab another.",0,TRUE,0,184,0,3,0,0,0,99999,0
+1,Rude!!,Rude!!,0,TRUE,1,6,2,0,0,0,0,99999,0
+5,Five Stars,It's very nice and durable!,1,TRUE,1,30,0,1,0,0,0,99999,0
+5,Five Stars,"Really intensifies brown eyes beautifully. Full brush gives great coverage with one or two swipes!",8,TRUE,0,95,0,2,0,0,0,99999,0
+4,This product helped and was fairly comfortable. The elastic band didn't sit in place very ...,"I had Bells Palsy after a craniotomy. My left eye wouldn't close all the way or produce tears leaving my eye very dry. This product helped and was fairly comfortable. The elastic band didn't sit in place very well. I had to readjust a lot. The foam was comfy but yellowed quickly. I suspect it wouldn't last too long.",2,TRUE,0,267,0,1,1,0,0,99999,0
+5,Great product,"I got this product earlier than I expected. It smells so good, and I really like the color. Even though I haven't tried it yet, I still think this is a good quality cream blush. I hope Too Faced won't discontinue it.",0,TRUE,0,184,0,3,0,0,0,99999,0
+3,Not for all around use too long of needles,Description should have given more info,0,TRUE,1,38,0,0,0,0,0,99999,0
+5,Great,"This bubbly, foamy mask is so cool! I love it! And it works great!",0,FALSE,1,66,2,3,0,0,0,99999,0
+4,Four Stars,"Loved this. Although, if I had gotten a shade lighter it would've been perfect.",0,TRUE,0,70,0,1,0,0,0,99999,0
+2,Not very good,"I bought this as a gift for my niece. The lipstick sets in a cute box but unfortunately it was torn open. Out of all the fall colors they could put in this box...2 were in the brown family and holding them together I think, I THINK they may be two different shades, 4 were the same mauve with a hint of orange, 1 straight mauve, 3 of the same orange, 1 red orange and 1 pink orange. A complete missed opportunity to have 12 DIFFERENT fall colors. Several lip sticks are cracked, the individual lip stick packaging is horrible. The plastic wrapper around some of the tubes are cut jagged or do not fit properly and I still cannot get over the colors. For the price I wasn't expecting high end quality but I did expect 12 fall related options for a teenager to experiment with. Instead I will keep the two brown shade for quick trips to the store on weekends and donate the ones that aren't cracked.",0,TRUE,0,716,1,0,1,0,0,99999,0
+5,Easy to use!,"I really like the set because it is very cost effective. Other professional set costs a lot more. Professional scissors normally $50+.<br />The stainless steel for the scissors has good quality. They cut really well and have good handling in hands.",0,TRUE,0,188,0,3,0,0,1,99999,0
+1,Wonderful,Great!,0,FALSE,1,7,0,1,0,0,0,99999,0
+5,Good color and fit,Just received wig and tried it on and that point I liked it. Right color and style.,1,TRUE,0,79,0,1,0,0,0,99999,0
+5,Now you don't need to ask anyone to scrub your back,You,0,TRUE,1,33,0,0,0,0,0,99999,0
+5,Beautiful colors of pua!,"These pua's were a hit at our luau with our little girls and their parents! They are prefect for girls ages from 5-9 years old. They preformed a hula number and became a hit. I remember after our show a few little girls who didn't dance came up to me asked if they could of a pua for their hair!!<br />Thank you Youbasically for making these beautiful hair clips! I would of have paid more in shipping fees if I had real ones send from home (Hawaii) these are the next best thing!<br />Aloha!",1,TRUE,1,413,2,4,0,0,0,99999,0
+4,So when I saw this big bottle I was like why not give this a try,"So this review is going to be a lot different than the orthers because I got this conditioner with the sole purpose of using it on my hair that I use to make my wigs. I make chrocet wigs for a living and I have noticed that the hair after curling it with hot water sometimes the hair feels rough and smells different. So when I saw this big bottle I was like why not give this a try. From other reviews and from reading the ingredients list I have seen that this is not an organic prodcut as cliamed. This sis not a proble for me as I am using it for my wig hair and not my own, Now on to how the prodcut made the hair feel, I have to say the prodcut made the hair feel a little softer and it even gave the hair some shine. The hair also smells great after. I would curl the hair on the rod first then pour the hot water on. I then reove the hair from the rod and then I add a nice size pump of condititer to the hair pile, and let the hair dry. I also believe this has helped the hair hold its curl and control the frizz of the hair.",0,FALSE,1,833,0,2,1,0,0,99999,0
+4,Four Stars,Works good. You just have to monitor the water level.,1,TRUE,0,55,0,1,0,0,0,99999,0
+5,Highly recommend,"I received this massage bar by Lush cosmetics as a Christmas gift. My husband and I both have been suffering with plantar fasciitis for many months and have tried everything including injections, boots, insoles etc but nothing worked. After using this bar for a week (we both use it before bed on out feet) the pain is indefinitely diminished. The smell, though some may find too much, I love as well. Bonus of smooth feet that smell great. Highly recommend. Ordered 2 more bars to give as gifts.",0,FALSE,1,357,0,2,0,0,0,99999,0
+5,Will buy again !! Great hair,Great hair !! Soft and curls good also true to length!!,0,TRUE,1,57,2,2,0,0,0,99999,0
+5,This was abysmal but I had fun making it,"Got this for my first time cosplaying as Fushiguro and man, the project on this one took a bit of team work, the spiking took a lot of effort to make it stay but just know, lots of hair gel and touchable hair spray is your friend.",0,TRUE,0,207,0,1,0,0,1,99999,0
+3,A little dull,Not as sparkly as I'd hoped.,0,TRUE,1,29,0,0,1,0,0,99999,0
+1,Not what I ordered - buyer beware.,"I had purchased this previously. Despite people complaining about the pumice/lava rock, I rather liked the soap bar and the smell. So much so, that when I ran out I came right back to my order history and ordered it again. Much to my dismay the product that came was different. Gone were the exfoliating bits, and the scent, and now there was an offensive patchouli and citrus smell. I quickly logged onto the Amazon page to verify I wasn't going crazy, and low and behold the description now said &#34;patchouli, orange and lavender&#34; instead of &#34;subtle notes of woods, leather, and musk&#34;. I logged onto the manufacturers website, and they still had pictures of the old bar, but their website was now updated to the new scent as well.<br /><br />I wouldn't mind if they changed their product, but I feel like going to a polar opposite (subtle wood, leather and musk to strong offensive patchouli, orange and lavender) experience is borderline bait and switch.",3,TRUE,0,756,0,0,3,0,0,99999,0
+2,Contains alcohol,I wish this product would have been more clear about the fact that it contains alcohol. I needed alcohol free.,2,TRUE,0,98,0,0,1,0,0,99999,0
+5,Easy and fast fix,"I love this little whitening pen!<br />I keep one in my purse and one at home so if I notice that I need to brighten up my teeth while im out I can just do it immediately. Works well, doesn't make my teeth sensitive or have a nasty flavor.",0,TRUE,0,211,0,3,0,0,0,99999,0
+3,Ok product,"I received 2 and the first one I opens something Broke inside so the mascara came out in a huge clump on the applicator. Some sort of squeegee thing inside the tube came loose. Other 1 works fine but it's very flaky mascara",0,TRUE,0,166,0,0,1,0,0,99999,0
+5,Five Stars,Easy to use and affordable,0,TRUE,1,25,0,1,0,0,0,99999,0
+3,Too much fragrance,"The conditioner works well but the fragrance is way too overpowering. Wish it came in unscented.",0,FALSE,1,81,0,0,1,0,0,99999,0
+5,I would definitely buy these again!!,"I really like the length of these nail forms and they're super sturdy so they stay in place during application which is a huge plus, especially if you're a beginner nail tech!! I've used a few different brands of nail forms and these topped all of them so far, the only thing I would ask to be changed about them is how many come in a package… I wish there were more lol!!",4,TRUE,1,269,3,2,0,0,0,99999,0
+5,Wonderful,This is absolutely amazing!!!,0,FALSE,1,29,1,2,0,0,0,99999,0
+2,Two Stars,cheaply made,0,TRUE,1,13,0,0,1,0,0,99999,0
+5,Good purchase,"I use this to put my alcohol and use for work or travel. The spray is nice and bottle looks high end.",0,TRUE,0,85,0,2,0,0,0,99999,0
+5,Five Stars,"adorable designs, just wish the images were engraved slightly deeper like bundle monsters'",0,TRUE,1,73,0,1,0,0,0,99999,0
+5,Five Stars,Perfect:),0,TRUE,1,9,0,1,0,0,0,99999,0
+1,Perfect,Great!,0,FALSE,1,7,0,1,0,0,0,99999,0
+3,Sent a slightly different product,"I was sent the slightly different (and smaller) 200g &#34;soap on a rope&#34; product. In other words, it looks different from the image. Soap has an oval shape with an attached rope so one can hang it instead of placing in a dish. Requested soap type &#34;sea salt&#34; is correct.",1,TRUE,1,221,0,0,1,0,0,99999,0
+1,Nice,Love it!,0,FALSE,1,9,0,1,0,0,0,99999,0
+1,cute but too fake,too fake,3,TRUE,1,12,0,0,0,0,0,99999,0
+5,My Favorites.,"Love these glasses.,",0,TRUE,1,16,0,1,0,0,0,99999,0
+5,Makes him smell great and now there is at least one thing of ...,"My 9yr old LOVES to wash the tub! In fact he does it with any shampoo, body soap, or liquid soap we forget to remove before he takes his morning shower. Then I got this soap, he loves it so much that it is his 'big boy' soap and the only one he loves enough to only use on his body! Makes him smell great and now there is at least one thing of soap I don't have to worry about! :)",1,TRUE,0,338,1,3,0,0,0,99999,0
+2,"Nice hair, very thin bundle",The bundles are very thin.,0,TRUE,1,24,0,1,0,0,1,99999,0
+5,Awesome shave soap!,"Excellent lather, great smell",1,FALSE,1,34,0,2,0,0,0,99999,0
+2,Looks good on your eyes,"Promise free pair of lashes.. Not a person of there word.",0,TRUE,0,63,0,0,1,0,0,99999,0
+2,Two Stars,Terrible. Doesn't stay on your head,0,TRUE,1,31,0,0,1,0,0,99999,0
+3,Love this my favorite scent,"This is my all time favorite worn it for years getting hard to find I ordered Aug. 17th and never got it tomorrow if it's still not here I'm asking for a refund not tracking information either come on do better.",0,TRUE,0,168,0,1,1,0,0,99999,0
+1,One Star,Does not look like the photo at all,0,TRUE,1,32,0,0,1,0,0,99999,0
+1,Attention,Only came with 2 packs and not 3 as described,2,TRUE,0,46,0,0,1,0,0,99999,0
+5,Stays closed,Great for thick hair,0,TRUE,1,21,0,1,0,0,0,99999,0
+5,Gorgeous colors,"[[VIDEOID:a85cb1993222ab6477f64f176b1d9758]] Such pretty colors, I love them all!",0,FALSE,1,68,1,2,0,0,0,99999,0
+5,No Better Straightener,"I have chin length curly hair that I have never bothered straightening. It's not that I don't want to, but rather, my straightener simply stinks. It took forever to heat up and do its work on my hair. And even then my hair felt dry and brittle and smelled burnt. I recently visited a friend and when she was straightening her hair I realized how quickly she did it and how amazing her hair looked! So I tried it out and was awestruck. It took me 15 minutes (compared to 45 with mine) and my hair looked beautiful and healthy. The straightener I was using was a Chi! Needless to say, I ordered mine the next day.",0,TRUE,0,445,0,4,0,0,0,99999,0
+5,Cute little fishes!,"I picked this up because I wanted to give one to my mom for Christmas, but they're so nice that I'm keeping the red one for myself! The pouches themselves were a lot bigger than I was thinking (I'm bad at gauging sizes ha,) and the pattern is just so pretty! I can tell that I'll be using it a lot, and I'm sure my mom will love hers!<br /><br />Thank you for reading, and I hope you have a nice day!",9,TRUE,1,347,2,3,0,0,1,99999,0
+5,Na,Beautiful hair,0,TRUE,1,17,0,1,0,0,0,99999,0
+5,Five Stars,Great scrubber!,0,TRUE,1,14,0,1,0,0,0,99999,0
+1,Marker not makeup,I could have bought a magic marker that would do the same thing.,0,TRUE,0,65,0,0,1,0,0,99999,0
+5,Good product,Happy with my purchase.,0,TRUE,1,26,0,1,0,0,0,99999,0
+5,Beautiful tattoos,Beautiful and just as advertised.,0,TRUE,1,34,0,1,0,0,0,99999,0
+5,Five Stars,Love these,1,FALSE,1,11,0,1,0,0,0,99999,0
+3,Three Stars,Love the case,0,TRUE,1,13,0,1,0,0,0,99999,0
+5,Five Stars,Lovely item!,0,TRUE,1,13,0,1,0,0,0,99999,0
+2,dry out easy,works great but dry out easy,0,TRUE,1,28,0,1,0,0,0,99999,0
+1,Perfect,Amazing!,0,FALSE,1,9,0,1,0,0,0,99999,0
+5,Size,"Very pleased with the product I was thinking it was going to be huge but the size is perfect not to big not to small",0,TRUE,0,105,0,2,0,0,0,99999,0
+5,Healthy for my hair,"I use this shampoo all the time. I think it's a little pricey. I like it, and don't need to use a lot for my short bob length.",7,TRUE,0,117,0,1,1,0,0,99999,0
+5,Best ever,Photo doesn't show how bright it is.,0,FALSE,1,33,0,1,0,0,0,99999,0
+5,Revolutionary,"Like: Easy to use. Dislike: Clamp could be longer.",2,TRUE,0,52,0,1,0,0,0,99999,0
+1,Great,This is absolutely amazing!!!,0,FALSE,1,29,1,1,0,0,0,99999,0
+5,Good product,"Like the product and the longevity of wear",0,TRUE,0,38,0,1,0,0,0,99999,0
+5,"Fast shipping,great price...",And a nice selection of products. Happy to add this to my skin care routine,1,TRUE,0,76,0,2,0,0,0,99999,0
+5,Fun and Beautiful!,"This is my most favorite lipstick! The pink color is so beautiful and matches so many of my outfits. The best thing about this awesome lipstick is the tiny glitter flecks that shimmer and shine every time you press your lips together! So pretty!!!",0,TRUE,1,201,2,4,0,0,0,99999,0
+1,This is awful!!!!,"Spent 25 minutes on my sons LIGHT BLONDE hair! All it did was rip it out! I followed every instruction! This stuff is horrible I would never EVER buy this again! Ruined his spirit week because it wouldn't work!",0,TRUE,1,168,4,0,1,0,0,99999,0
+5,An Old School Classic,"Good stuff. Smells great, makes tons of lather, and provides a slick shaving surface.",0,FALSE,1,84,0,2,0,0,0,99999,0
+5,Nice,Works well.,0,FALSE,1,12,0,1,0,0,0,99999,0
+5,MIRACLE PRODUCT,"I was just looking to see if Amazon carried this product. I usually buy from Mannatech, long time customer. I could not live without having this in the house. I heals everything and especially burns. I even gave some to a friend who had a burn and it was so painful, it healed in about 2 days, she was stunned at how quickly it was gone. I had cancer and now my skin bruises so easily, very fragile, I am going to give this a try to see if it works better than the other creams I have been using. If it works I will get back and report. It really is an excellent product for everything you might need it for.",5,TRUE,1,475,0,3,0,0,0,99999,0
+5,Beautiful,"I felt confident and looked amazing in this wig! I love color baby blue like I imagine it to be! I get a lot compliments all the time, when I wear it! Great value… Can't wait to order a different color!",0,TRUE,1,154,1,2,0,0,1,99999,0
+5,Great product,Great product,0,TRUE,1,14,0,1,0,0,0,99999,0
+5,Best Hairspray for my Fine hair ever!,"I have fine bleached blonde hair and have been searching for a hairspray that will hold all day without the stiffness that most proclaim to have - well this one does - best hairspray and i was so glad i took the chance and tried it - now I can't be without it.<br />Great product from a great seller!",1,TRUE,0,259,0,4,0,0,0,99999,0
+5,Great gel,Would buy again,0,TRUE,1,13,0,1,0,0,0,99999,0
+5,Love it,Exactly as described.,0,FALSE,1,19,0,1,0,0,0,99999,0
+5,Super easy to use!,"I got mine today and already used. It's really good!!! I used at low potency because my skin is really sensitive and I bruise easily! After using I didn't have any bruises and by akin looked great!<br />Make sure you pick the corret head before using.",2,TRUE,1,202,2,2,0,0,0,99999,0
+4,Does what it says it does,"After 5 treatments my teeth are definitely whiter! A couple of spots on my gums got a little irritated 🤷🏼‍♀️ But overall not bad!",0,TRUE,0,120,1,1,0,0,1,99999,0
+5,Great set!,Great set! Love the colors and polish goes on great and stays on!,0,TRUE,0,66,0,2,0,0,0,99999,0
+5,Amazing,I love it so much!!!,0,FALSE,1,19,1,1,0,0,0,99999,0
+5,Excellent moisturizer and gift idea.,Product has not disappointed as quality moisturizer and good value. Subtle scent makes ideal gift for male or female.,2,TRUE,0,98,0,2,0,0,0,99999,0
+1,Waste of money,"This product does not work, if you want to learn to braid hair just watch YouTube",0,TRUE,0,77,0,0,1,0,0,99999,0
+1,Bad hair line.,"The Hairline is totally off. if your hair is not this color already prepare for a difficult time. This was a waste of money. Im going to just dye it black so I can conceal my hair.",0,TRUE,0,149,0,0,1,0,0,99999,0
+5,Excellent,Exceeded my expectations!!!,0,FALSE,1,28,1,1,0,0,0,99999,0
+5,Works awesome!,"This works awesome. Even did a test and hand washed a few of my more frequent use brushes and then used the brush spinner and so much more residue came off. Very pleased",0,TRUE,0,142,0,2,0,0,0,99999,0
+2,Wanted to love this bright color,"I have used other colors in the miracle gel line, but for whatever reason this one did not work well. I found I had to use multiple coats (3-4) to get the right coverage and vibrancy, but there was no right amount of time I could let it cure before/after using the corresponding top coat to set correctly. Peeled or got smudged quickly and I would be changing the polish in day or 2.",0,TRUE,0,313,0,0,1,0,0,99999,0
+5,Great For the Natural look,"Great Price but they aren't long or thick enough..<br />great for a natural look.",0,TRUE,0,64,0,2,0,0,0,99999,0
+5,Great just needed them shorter just a little,"I live the design and the thickness of the nail and the design. Just needed them a little shorter for my line of work. But I will buy again.",0,TRUE,0,118,0,2,0,0,0,99999,0
+5,Satisfied with my purchase.,They came quickly and in good condition. The quality is as good as anyone would need.,0,TRUE,0,85,0,2,0,0,0,99999,0
+5,Works,"Love this product! My daughter and I have very thick and long hair. Our hair also frizzes. This co-wast is great but now it is hard to find. Seems like whenever we find a great product for our hair that really works, they start pulling it from the shelves.",1,TRUE,1,205,0,3,0,0,0,99999,0
+4,very nice,"Nice hair piece. It goes in a twirl and hard to change that, but I like it.",0,TRUE,0,70,0,1,0,0,0,99999,0
+1,No los vuelvo a comprar!,"Los colores que me enviaron no me gustaron, ademas seguí los pasos para pintarme las uñas y aún así a los 3 días se descascará. Desperdicie mi dinero",1,TRUE,0,120,0,0,1,0,0,99999,0
+5,It works,"I love it<br />, I had dip powder on and it took a lot longer than what is advertised but it worked nicely<br />It used to be such a nuisance to remove it on my own. Can't go anywhere during lockdown of COVID19 SO THIS MACHINE CAME TO MY RESCUE as I have to do everything at home, worth every penny",4,TRUE,1,279,0,2,1,0,0,99999,0
+1,Nice,Good product!,0,FALSE,1,13,0,1,0,0,0,99999,0
+1,Love it,Attached screenshot is inaccurate.,0,FALSE,1,29,0,1,0,0,0,99999,0
+5,Great Value,"My college age daughter and her friends love these masks. It was a great value and she loved that there were so many different ones to choose from.",4,TRUE,0,124,0,2,0,0,0,99999,0
+5,Removes dead skin,First of all I love the smell. I also like the way my skin feels afterwards.,0,TRUE,0,78,0,2,0,0,0,99999,0
+4,A Pea Size,"For me, a pea size of the serum will cover my whole face. I have combination skin. I use this serum at night only. I have only used it consistently for about 3 nights now. I do notice a small improvement in texture.",0,TRUE,0,166,0,1,0,0,0,99999,0
+5,Es muy comodo al usarlo es facil de lavar,Muy comodo lindo y facil de usar,0,TRUE,1,36,0,1,0,0,0,99999,0
+5,Perfect travel companion!,"These are amazing and work perfect. Durable. Stay closed in travel. Easy to fill and easy to get the last drop out. Also simple to clean with dish soap and warm water. Great travel investment for picky people like me who like to have their product in travel size!",5,TRUE,0,221,0,4,0,0,0,99999,0
+5,Five Stars,"Not the best floss, but it's the best floss that fits in my wallet.",0,TRUE,0,64,0,1,0,0,0,99999,0
+3,Should be called medium hold hair gel,"About as strong as LA Looks strong 10 gel which is about a 5 hold as compared to Got2B Glued gel.",1,TRUE,0,95,0,0,1,0,0,99999,0
+5,Five Stars,Heavenly scent!,0,TRUE,1,14,0,1,0,0,0,99999,0
+5,best dryer ever!!,absolutely love love love!! very powerful and drys hair super fast! and you can't beat the price!,0,TRUE,1,88,4,3,0,0,0,99999,0
+2,Hard to twist,Not my favorite. Kinda stiff and not easy to bend,1,TRUE,0,45,0,0,1,0,0,99999,0
+5,Nice,Wonderful!,0,FALSE,1,10,0,1,0,0,0,99999,0
+5,Five Stars,Love love love this contour brush!,0,TRUE,1,30,1,2,0,0,0,99999,0
+3,3_%,En lo personal no me funciono como esperaba,0,TRUE,0,40,0,0,0,0,0,99999,0
+5,Sturdy pump,"I use these for my essential oil concoctions for hair and for household sprays. I love the blue. The pump is very sturdy and I think it will last for a long time.",0,TRUE,0,126,0,2,0,0,0,99999,0
+5,"So pretty, great colors","I have this scrunchie in both the rust and the emerald colors and I love them! They are so pretty, and all the colors are really rich and beautiful. They aren't super strong on their own so I usually wear them over a regular hair tie which works fine because they are big and fluffy so they cover them easily. I haven't had any issues with the band stretching out yet. My favorite way to wear them is on a messy bun. I honestly think you can't go wrong with these, great for all sorts of hair styles.",0,FALSE,1,390,0,4,0,0,0,99999,0
+4,Four Stars,I use it every day after my shower. Leaves my skin feeling moist all day. Not greasy,0,TRUE,0,73,0,1,0,0,0,99999,0
+5,Amazing.,"Just as promised. A little pink for my taste but I have sisters who love the color pink. It really is a great bargain and a must have",1,TRUE,0,119,0,2,0,0,0,99999,0
+5,Great scene and moisture,"The smell and lather of this shampoo is amazing. Def worth a try.",0,TRUE,0,70,0,2,0,0,0,99999,0
+5,the right price,Very good product at a great price. Will buy again.,0,TRUE,0,53,0,2,0,0,0,99999,0
+1,I'm unhappy with this purchase,"This stuff is not good it isn't worth it and I would suggest never waisting your money on it.",0,TRUE,0,90,0,0,1,0,0,99999,0
+4,Nice,Good ponytail didn't get nappy quick,0,TRUE,1,31,0,1,0,0,0,99999,0
+5,Work great,"These are longer than the picks I could buy locally, great for holding larger diameter rollers. Good venfor, product came very quickly.",1,TRUE,0,114,0,2,0,0,0,99999,0
+5,Snail Essence,"DERMALOGY by NEOGENLAB Snail Cica Repair Essence 3.38 oz / 100ml I 96% Snail Mucin I Korean Skin Care $27.00<br /><br />My skin has become even more sensitive since starting a retinoid. This is lightly scented but actually did not irritate or burn my skin at all. Makes me skin feel supple and moisturized. I love this around my eyes and the perimeter of my face where it feels dry.<br />A lot of ingredients, but good ones. Propyl Gallate being the only mildly questionable ingredient (may cause allergic reaction)<br /><br />Ingredients List<br />Snail Secretion Filtrate, 1-2-Hexanediol, Betaine, Sodium Polyacrylate, Carbomer, Arginine, Octyldodeceth-16, Pyrus Communis (Pear) Fruit Extract, Rosa Damascena Flower Water, Hedera Helix (Ivy) Leaf/Stem Extract, Fragaria Chiloensis (Strawberry) Fruit Extract, Pimpinella Anisum (Anise) Fruit Extract, Water, Butyl Avocadate, Glycerin, Butylene Glycol, Asiaticoside, Madecassic Acid, Asiatic Acid, Centella Asiatica Extract, Vaccinium Macrocarpon (Cranberry) Fruit Extract, Rubus Idaeus (Raspberry) Fruit Extract,Vaccimum Angusyustifolium (Blueberry) Fruit Extract, Cornus Officinalis Fruit Extract, Euterpe Oleracea Fruit Extract, Sambucus Nigra Fruit Extract, Schizandra Chinensis Fruit Extract, Panax Ginseng Berry Extract, Vaccinium Myrtillus Fruit Extract, Epilobium Reischeri Extract, Punica Granatium Fruit Extract, Citric Acid, Potassium Sorbate, Hydrolyzed Hyaluronic Acid, Ethylhexylglycerin, Hibiscus Sabdariffa Flower Extract, Propyl Gallate, Madecassoside",1,FALSE,1,1828,0,3,0,0,1,11950000,1
+1,Stinks and tanglrs really bad,Was very thin and stinky. Tangled up I wads so bad.,0,TRUE,0,58,0,0,2,0,0,99999,0
+5,Works,Worked for me. Will be buying again.,0,TRUE,1,34,0,1,0,0,0,99999,0
+5,Good product,Like it!,0,TRUE,1,10,0,1,0,0,0,99999,0
