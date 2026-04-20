@@ -29,6 +29,9 @@ const api = axios.create({
 
 export const predictReview = async (review: string): Promise<PredictionResponse> => {
   try {
+    console.log(' Making API call to:', API_BASE_URL + '/predict')
+    console.log(' Review data:', { review: review.substring(0, 50) + '...' })
+    
     const response = await api.post<PredictionResponse>('/predict', { review })
     console.log(' API Response:', response.data)
     return response.data
@@ -39,7 +42,8 @@ export const predictReview = async (review: string): Promise<PredictionResponse>
         code: error.code,
         status: error.response?.status,
         data: error.response?.data,
-        message: error.message
+        message: error.message,
+        url: API_BASE_URL + '/predict'
       })
       
       if (error.code === 'ECONNREFUSED') {

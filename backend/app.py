@@ -5,7 +5,7 @@ import numpy as np
 import os
 
 app = Flask(__name__)
-CORS(app)  # Enable CORS for all routes
+CORS(app, origins=['http://localhost:3000'], methods=['GET', 'POST'], supports_credentials=True)
 
 # Load model + vectorizer with error handling
 try:
