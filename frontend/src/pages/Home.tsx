@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { motion } from 'framer-motion'
-import { FaShieldAlt, FaBrain, FaChartBar, FaMicroscope, FaCheckCircle, FaExclamationTriangle, FaArrowRight } from 'react-icons/fa'
+import { FaShieldAlt, FaBrain, FaChartBar, FaMicroscope, FaArrowRight } from 'react-icons/fa'
 import { useDarkMode } from '../contexts/DarkModeContext'
 
 const Home: React.FC = () => {
