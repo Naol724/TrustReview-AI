@@ -1,6 +1,6 @@
 # TrustReview AI - Fake Review Detection System
 
-![TrustReview AI Banner](screenshots/banner.png)
+![TrustReview AI Banner](screenshots/trustreview%20banner.png)
 
 ## Overview
 
@@ -136,27 +136,27 @@ The frontend will start on `http://localhost:3000`
 ## Usage
 
 ### 1. Home Page
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/truestr%20homep.png)
 - Landing page with hero section
 - Feature highlights and statistics
 - Call-to-action buttons
 
 ### 2. Review Analyzer
-![Analyzer Page](screenshots/analyzer.png)
+![Analyzer Page](screenshots/ReviewA.png)
 - Input review text for analysis
 - Real-time character counting
 - Paste functionality for convenience
 - Instant AI analysis with confidence scores
 
 ### 3. Dashboard
-![Dashboard Page](screenshots/dashboard.png)
+![Dashboard Page](screenshots/Dashboard.png)
 - Analytics charts and statistics
 - Recent analysis history
 - Export functionality for data
 - Visual representation of patterns
 
 ### 4. About Page
-![About Page](screenshots/about.png)
+![About Page](screenshots/About.png)
 - Project mission and methodology
 - Technology stack explanation
 - Training dataset information
@@ -455,10 +455,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Email**: contact@trustreview.ai
-- **Support**: support@trustreview.ai
-- **Business**: business@trustreview.ai
-- **GitHub**: [Project Repository](https://github.com/yourusername/trustreview-ai)
+- **Email**: naolgonfa449@gmail.com
+- **Support**: naolgonfa449@gmail.com
+- **Business**: naolgonfa449@gmail.com
+- **GitHub**: [](https://github.com/Naol724/TrustReview-AI)
 
 ## Acknowledgments
 
@@ -471,4 +471,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **TrustReview AI** - Making online reviews trustworthy, one analysis at a time.
 
-![TrustReview AI Logo](screenshots/logo.png)
