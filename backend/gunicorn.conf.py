@@ -3,7 +3,8 @@ Gunicorn configuration file for production deployment
 """
 
 # Server socket
-bind = "0.0.0.0:5000"
+import os
+bind = f"0.0.0.0:{os.environ.get('PORT', '5000')}"
 backlog = 2048
 
 # Worker processes

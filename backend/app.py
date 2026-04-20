@@ -5,7 +5,7 @@ import numpy as np
 import os
 
 app = Flask(__name__)
-CORS(app, origins=['http://localhost:3000', 'https://*.vercel.app'], methods=['GET', 'POST'], supports_credentials=False)
+CORS(app)
 
 # Load model + vectorizer with error handling
 try:
@@ -85,5 +85,5 @@ def predict():
         }), 500
 
 if __name__ == "__main__":
-    print(" Starting Flask server on http://localhost:5000")
-    app.run(host='0.0.0.0', port=5000, debug=True)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
