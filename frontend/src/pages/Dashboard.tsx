@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
-import { FaUser, FaDownload, FaTrash, FaHistory, FaExclamationTriangle, FaCheckCircle } from 'react-icons/fa'
+import { FaDownload, FaTrash, FaHistory, FaExclamationTriangle, FaCheckCircle } from 'react-icons/fa'
 import { useDarkMode } from '../contexts/DarkModeContext'
 import { getHistory, clearHistory, exportToCSV, HistoryItem } from '../services/api'
 import toast from 'react-hot-toast'
