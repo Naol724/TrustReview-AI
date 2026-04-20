@@ -1,3 +1,4 @@
+import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import { Toaster } from 'react-hot-toast'
 import Navbar from './components/Navbar'
@@ -8,7 +9,7 @@ import Dashboard from './pages/Dashboard'
 import About from './pages/About'
 import { DarkModeProvider } from './contexts/DarkModeContext'
 
-function App() {
+const App: React.FC = () => {
   return (
     <DarkModeProvider>
       <Router>
