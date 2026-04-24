@@ -1,4 +1,16 @@
 import React from 'react'
+
+// Capture the install prompt globally before React renders
+declare global {
+  interface Window {
+    deferredPWAInstallPrompt: any;
+  }
+}
+
+window.addEventListener('beforeinstallprompt', (e) => {
+  e.preventDefault();
+  window.deferredPWAInstallPrompt = e;
+});
 import ReactDOM from 'react-dom/client'
 import App from './App.tsx'
 import './index.css'
