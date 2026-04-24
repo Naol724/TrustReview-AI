@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrustReview AI - Offline</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="manifest" href="/manifest.webmanifest">
+    <meta name="theme-color" content="#1e293b">
+</head>
+<body class="bg-gray-50 dark:bg-gray-900 min-h-screen flex items-center justify-center">
+    <div class="text-center p-8">
+        <div class="max-w-md mx-auto">
+            <div class="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-8">
+                <div class="mb-6">
+                    <h1 class="text-2xl font-bold text-gray-900 dark:text-white mb-2">TrustReview AI</h1>
+                    <p class="text-gray-600 dark:text-gray-400">Offline Mode</p>
+                </div>
+                <div class="space-y-4">
+                    <div class="bg-blue-50 dark:bg-blue-900/20 border border-blue-200 dark:border-blue-800 rounded-lg p-4">
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-blue-500 rounded-full flex items-center justify-center">
+                                <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
+                                    <path d="M8 4a4 4 0 100-8 4 4 0 008 8zM8 14a4 4 0 100-8 4 4 0 008 8z"/>
+                                </svg>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold text-blue-900 dark:text-blue-100">You're Offline</h3>
+                                <p class="text-blue-700 dark:text-blue-300 text-sm mt-1">No internet connection detected</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bg-yellow-50 dark:bg-yellow-900/20 border border-yellow-200 dark:border-yellow-800 rounded-lg p-4">
+                        <div class="flex items-center space-x-3">
+                            <div class="w-8 h-8 bg-yellow-500 rounded-full flex items-center justify-center">
+                                <svg class="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 20 20">
+                                    <path d="M10 2a6 6 0 00-6 6v3.586l-.707.707A8.004 8.004 0 008 15a8.004 8.004 0 008-8.004L15.414 8.586V8a6 6 0 00-6-6z"/>
+                                </svg>
+                            </div>
+                            <div>
+                                <h3 class="font-semibold text-yellow-900 dark:text-yellow-100">Limited Functionality</h3>
+                                <p class="text-yellow-700 dark:text-yellow-300 text-sm mt-1">Some features may not work offline</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="mt-6">
+                        <button onclick="window.location.reload()" class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-2 px-4 rounded-lg w-full">
+                            Try Again
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
