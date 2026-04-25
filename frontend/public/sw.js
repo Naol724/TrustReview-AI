@@ -20,6 +20,14 @@ self.addEventListener('install', (event) => {
 
 // Fetch event
 self.addEventListener('fetch', (event) => {
+  // Skip all external API calls and non-GET requests
+  if (event.request.url.includes('render.com') || 
+      event.request.url.includes('api') ||
+      event.request.method !== 'GET') {
+    return fetch(event.request);
+  }
+
+  // Only handle GET requests for static assets
   event.respondWith(
     caches.match(event.request)
       .then((response) => {
@@ -28,23 +36,26 @@ self.addEventListener('fetch', (event) => {
           return response;
         }
 
-        // Clone the request
+        // Clone request
         const fetchRequest = event.request.clone();
 
         return fetch(fetchRequest).then(
           (response) => {
             // Check if valid response
-            if (!response || response.status !== 200 || response.type !== 'basic') {
+            if (!response || response.status !== 200) {
               return response;
             }
 
-            // Clone the response
-            const responseToCache = response.clone();
+            // Only cache same-origin requests
+            if (event.request.url.startsWith(self.location.origin)) {
+              // Clone response
+              const responseToCache = response.clone();
 
-            caches.open(CACHE_NAME)
-              .then((cache) => {
-                cache.put(event.request, responseToCache);
-              });
+              caches.open(CACHE_NAME)
+                .then((cache) => {
+                  cache.put(event.request, responseToCache);
+                });
+            }
 
             return response;
           }
