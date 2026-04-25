@@ -59,11 +59,26 @@ self.addEventListener('fetch', (event) => {
 
             return response;
           }
-        ).catch(() => {
+        ).catch((error) => {
+          console.log('Fetch failed, serving from cache or offline page:', error);
+          
+          // Return cached version if available
+          if (response) {
+            return response;
+          }
+          
           // Return offline page for navigation requests
-          if (event.request.destination === 'document') {
+          if (event.request.destination === 'document' || 
+              event.request.url.endsWith('/') ||
+              event.request.url.includes('/index.html')) {
             return caches.match('/offline.html');
           }
+          
+          // For other requests, return a basic offline response
+          return new Response('Offline - Service unavailable', {
+            status: 503,
+            statusText: 'Service Unavailable'
+          });
         });
       })
   );

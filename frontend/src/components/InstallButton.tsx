@@ -21,11 +21,13 @@ const InstallButton: React.FC = () => {
   useEffect(() => {
     const handleBeforeInstallPrompt = (e: BeforeInstallPromptEvent) => {
       e.preventDefault()
+      console.log('beforeinstallprompt event fired')
       setDeferredPrompt(e)
       setIsVisible(true)
     }
 
     const handleAppInstalled = () => {
+      console.log('appinstalled event fired')
       setIsInstalled(true)
       setIsVisible(false)
       setDeferredPrompt(null)
@@ -50,15 +52,22 @@ const InstallButton: React.FC = () => {
   }, [])
 
   const handleInstallClick = async () => {
+    console.log('Install button clicked', { isIOS, hasDeferredPrompt: !!deferredPrompt })
+    
     if (isIOS) {
       handleIOSInstall()
       return
     }
 
-    if (!deferredPrompt) return
+    if (!deferredPrompt) {
+      console.log('No deferred prompt available')
+      return
+    }
 
+    console.log('Showing install prompt')
     deferredPrompt.prompt()
     const { outcome } = await deferredPrompt.userChoice
+    console.log('Install prompt outcome:', outcome)
     setDeferredPrompt(null)
     setIsVisible(false)
 
