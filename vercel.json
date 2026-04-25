@@ -13,14 +13,14 @@
   "buildCommand": "cd frontend && npm run build",
   "outputDirectory": "frontend/dist",
   "framework": "vite",
-  "rewrites": [
+  "routes": [
     {
-      "source": "/api/(.*)",
-      "destination": "https://trustreview-ai-backend.onrender.com/api/$1"
+      "src": "/api/(.*)",
+      "dest": "https://trustreview-ai-backend.onrender.com/api/$1"
     },
     {
-      "source": "/((?!api).*)",
-      "destination": "/index.html"
+      "src": "/(.*)",
+      "dest": "/index.html"
     }
   ],
   "headers": [
